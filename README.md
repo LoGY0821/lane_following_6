@@ -4,7 +4,7 @@
 ## Download File
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/LoGY0821/lan_following_6.git
+git clone https://github.com/LoGY0821/lane_following_6.git
 cd ..
 catkin_make
 ```
