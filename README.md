@@ -5,7 +5,14 @@
 ```
 cd ~/catkin_ws/src
 git clone https://github.com/LoGY0821/lane_following_6.git
-cd ..
+```
++ Before running the program, the camera parameter should be put into the corresponding folder. The example folder is: 
+```
+~/catkin_ws/src/turtlebot3_autorace_2020/turtlebot3_autorace_traffic_light/turtlebot3_autorace_traffic_light_camera/calibration
+```
++ Then: 
+```
+cd ~/catkin_ws
 catkin_make
 ```
 --- 
